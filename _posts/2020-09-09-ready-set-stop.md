@@ -1,6 +1,6 @@
 ---
 author: H
-categories: []
+categories: [baby, general]
 tags: []
 ---
 In late July 2020, we decided we were ready to have a child of our own. We (mostly he at first) did research into what it would take for us to make it happen.
