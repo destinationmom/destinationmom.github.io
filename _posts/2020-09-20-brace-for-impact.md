@@ -1,6 +1,6 @@
 ---
 author: H
-categories: [baby, personal]
+categories: [baby, general]
 tags: []
 ---
 Because there's such a lack of information (both online and from my IRL doctor) about what I should do regarding HRT, I basically had to make my own assessment and decision.
